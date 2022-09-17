@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Main",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1663425472799,
+                "label": "Home",
+                "title": "",
+                "type": "frontpage",
+                "target": "_self",
+                "rel": "",
+                "link": "empty",
+                "cssClass": "",
+                "isHidden": false,
+                "items": [
+                    {
+                        "id": 1663425416942,
+                        "label": "AI Art",
+                        "title": "",
+                        "type": "tag",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 1,
+                        "cssClass": "",
+                        "isHidden": true,
+                        "items": []
+                    },
+                    {
+                        "id": 1663425425752,
+                        "label": "Shaders",
+                        "title": "",
+                        "type": "tag",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 2,
+                        "cssClass": "",
+                        "isHidden": true,
+                        "items": []
+                    }
+                ]
+            },
+            {
+                "id": 1663425500409,
+                "label": "External",
+                "title": "",
+                "type": "separator",
+                "target": "_self",
+                "rel": "",
+                "link": "",
+                "cssClass": "",
+                "isHidden": false,
+                "items": [
+                    {
+                        "id": 1663425203531,
+                        "label": "P1X",
+                        "title": "",
+                        "type": "external",
+                        "target": "_self",
+                        "rel": "",
+                        "link": "https://p1x.in",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1663425522442,
+                        "label": "KKJ",
+                        "title": "",
+                        "type": "external",
+                        "target": "_self",
+                        "rel": "",
+                        "link": "http://krzysztofjankowski.com",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    }
+                ]
+            }
+        ]
+    }
+]
