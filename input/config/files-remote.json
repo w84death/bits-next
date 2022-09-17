@@ -107,27 +107,32 @@
     {
         "path": "/authors/krzysztof-jankowski/index.html",
         "type": "file",
-        "md5": "e7837668d2ccb00af4d06cb96797ca35"
+        "md5": "a21c0be63b9333cfe56d535adac169bf"
     },
     {
         "path": "ending-is-just-the-beginning.html",
         "type": "file",
-        "md5": "8474111cfa8435f33e62d7d4000ba1e8"
+        "md5": "f12006a071407b976af0086ba6fc00c8"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "59ce74058c8e980ab0a2e4628173cdd3"
+        "md5": "f98148d93a510c8c4dfbd1d727670393"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "ba9dba8aea9c766c97de4e376adc05e3"
+        "md5": "205a9f215c77be1e69c7e0298d65338d"
+    },
+    {
+        "path": "i-for-one-welcome-our-ai-image-generators.html",
+        "type": "file",
+        "md5": "0fd6d51a50d79e9e7e7a3f9ffbba8738"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "e93620474b5932cc3c2da742898e5ae9"
+        "md5": "be2551b0cffc87b41394070b3bdd6763"
     },
     {
         "path": "media",
@@ -145,11 +150,6 @@
         "md5": false
     },
     {
-        "path": "/media/posts/4/IMG_20220917_170557.jpg",
-        "type": "file",
-        "md5": "a3746460a77faa36173ba9b26083b990"
-    },
-    {
         "path": "/media/posts/4/Screenshot-2022-09-17-at-17-04-38-Krzysztof-J.-Weblog.png",
         "type": "file",
         "md5": "4b2ff0442286b7c3acca2d292ae77230"
@@ -165,29 +165,39 @@
         "md5": "d040823a37797c5d1b0fb94737bddc45"
     },
     {
-        "path": "/media/posts/4/owl-big.png",
+        "path": "media/posts/4/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/gallery/Screenshot-from-2022-09-17-19-58-38-thumbnail.png",
         "type": "file",
-        "md5": "3a5c3ea500c334df9579a6b00af354d0"
+        "md5": "11fcadd436f1e80530c0d3229b651114"
+    },
+    {
+        "path": "/media/posts/4/gallery/Screenshot-from-2022-09-17-19-58-38.png",
+        "type": "file",
+        "md5": "bd94ab8287691321da36d9179bdb3708"
+    },
+    {
+        "path": "/media/posts/4/gallery/Screenshot-from-2022-09-17-19-59-06-thumbnail.png",
+        "type": "file",
+        "md5": "93f6c671e251381e1b116279fe442762"
+    },
+    {
+        "path": "/media/posts/4/gallery/Screenshot-from-2022-09-17-19-59-06.png",
+        "type": "file",
+        "md5": "72fd479ef489570559cca39a11b23b90"
+    },
+    {
+        "path": "/media/posts/4/owlbig5.png",
+        "type": "file",
+        "md5": "2aa86aee5c8f151fb792ee0b8d36c7dc"
     },
     {
         "path": "media/posts/4/responsive",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "/media/posts/4/responsive/IMG_20220917_170557-md.jpg",
-        "type": "file",
-        "md5": "867a987ef7570e7f5d6570ff6031c436"
-    },
-    {
-        "path": "/media/posts/4/responsive/IMG_20220917_170557-sm.jpg",
-        "type": "file",
-        "md5": "f239ac8770ad7a61a013526285cfd4f7"
-    },
-    {
-        "path": "/media/posts/4/responsive/IMG_20220917_170557-xs.jpg",
-        "type": "file",
-        "md5": "6f49f1a2cc98365a0536f0fb1e316337"
     },
     {
         "path": "/media/posts/4/responsive/Screenshot-2022-09-17-at-17-04-38-Krzysztof-J.-Weblog-md.png",
@@ -250,19 +260,329 @@
         "md5": "2438ab98b9d1c58a3c8e4b74f59b6e09"
     },
     {
-        "path": "/media/posts/4/responsive/owl-big-md.png",
+        "path": "/media/posts/4/responsive/owlbig5-md.png",
+        "type": "file",
+        "md5": "6cb55bec4134374cbb669256dbf1a0b5"
+    },
+    {
+        "path": "/media/posts/4/responsive/owlbig5-sm.png",
+        "type": "file",
+        "md5": "679b97132ce7327a228a5c8f1e34bde6"
+    },
+    {
+        "path": "/media/posts/4/responsive/owlbig5-xs.png",
+        "type": "file",
+        "md5": "ce16b19670c4a72cdcae479771a0f746"
+    },
+    {
+        "path": "media/posts/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/7/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/gallery/owl-2-thumbnail.png",
+        "type": "file",
+        "md5": "1c49dbccd97a605b0a5fc1d7bdd806bc"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl-2.png",
+        "type": "file",
+        "md5": "a710b1fbbe8ed07431115365c1171544"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl-3-2-thumbnail.png",
+        "type": "file",
+        "md5": "a45571fec0456dcf06bc379586552238"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl-3-2.png",
+        "type": "file",
+        "md5": "913739617074f74ee6fd8ce64549292b"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl-big-thumbnail.png",
         "type": "file",
         "md5": "308b6dd25a63befd516f20b6be667a8a"
     },
     {
-        "path": "/media/posts/4/responsive/owl-big-sm.png",
+        "path": "/media/posts/7/gallery/owl-big.png",
         "type": "file",
-        "md5": "c3af7ac1de3e7ca07842e131f1551a6e"
+        "md5": "3a5c3ea500c334df9579a6b00af354d0"
     },
     {
-        "path": "/media/posts/4/responsive/owl-big-xs.png",
+        "path": "/media/posts/7/gallery/owl-typewriter-thumbnail.png",
         "type": "file",
-        "md5": "3727417ade851792ab6f40f0301cfe0c"
+        "md5": "a9efc1a4fa72d62fd4acdcc90f45e5dc"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl-typewriter.png",
+        "type": "file",
+        "md5": "e00b56c2486a0e73b5d61443772eb552"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl12-thumbnail.png",
+        "type": "file",
+        "md5": "bc021ab715157f741265aad2341d29f0"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl12.png",
+        "type": "file",
+        "md5": "c3035e344106e5e5a522026fba659389"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl13-thumbnail.png",
+        "type": "file",
+        "md5": "ad2fdfb968330a4335df6b71ed793426"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl13.png",
+        "type": "file",
+        "md5": "2cc04f882be2a7c18791736ee71a71f8"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl14-thumbnail.png",
+        "type": "file",
+        "md5": "f373baeac484834fb06bfcad2ca5e9e3"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl14.png",
+        "type": "file",
+        "md5": "07fe363e686f9627c0b56f0fb6da583c"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl15-thumbnail.png",
+        "type": "file",
+        "md5": "f12c6550f6fe196706062fdb57f4a02d"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl15.png",
+        "type": "file",
+        "md5": "266def914cd13ad0931b53fce3d4ae2d"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl16-thumbnail.png",
+        "type": "file",
+        "md5": "670880747f9a4fb26de02656711266ea"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl16.png",
+        "type": "file",
+        "md5": "1a7a4e777f111e977d85682fd80aec24"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl17-thumbnail.png",
+        "type": "file",
+        "md5": "ba55e33faeed7f14c1e5e93e98d802c5"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl17.png",
+        "type": "file",
+        "md5": "7ed913822810b3a4c11ca1b8f01e337e"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl18-thumbnail.png",
+        "type": "file",
+        "md5": "a585d3c984dd18f95fbca9c651c4ea01"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl18.png",
+        "type": "file",
+        "md5": "89ca2658a61ca5b89e71c2dfd61fcfd6"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl19-thumbnail.png",
+        "type": "file",
+        "md5": "d9c50ebc3b6aadc3eeca8ca52a3de21e"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl19.png",
+        "type": "file",
+        "md5": "a03cb8d3f4790a1ad184645241caa996"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl2-2-thumbnail.png",
+        "type": "file",
+        "md5": "093ce88ab7f7f19c33cff8aa15371f41"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl2-2.png",
+        "type": "file",
+        "md5": "a8624cbad030bada254a944f9f670821"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl20-thumbnail.png",
+        "type": "file",
+        "md5": "b8051867041dcae24c888451809d9ec7"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl20.png",
+        "type": "file",
+        "md5": "d37f40bd053e07afd1130c5a74d6babe"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl30-2-thumbnail.png",
+        "type": "file",
+        "md5": "90536792564d62002f84e10cce93ec4c"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl30-2.png",
+        "type": "file",
+        "md5": "3ce270b6f7b6f82ce95f8b423fb2e1b4"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl31-thumbnail.png",
+        "type": "file",
+        "md5": "2f7afff4aefadcb6cf249e4f1b0cae9a"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl31.png",
+        "type": "file",
+        "md5": "3ea4e473d4bf7a59a976a2e5a20dbe6f"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl35-thumbnail.png",
+        "type": "file",
+        "md5": "5deb75707c725f5df7dd0da9087e821e"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl35.png",
+        "type": "file",
+        "md5": "793233f0dc973da8b9ad98a032e72a6c"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl4-thumbnail.png",
+        "type": "file",
+        "md5": "eaaac2094e79cb1338515e214b379556"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl4.png",
+        "type": "file",
+        "md5": "85e7977f5b373631eb560adfa4a91b73"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl40-thumbnail.png",
+        "type": "file",
+        "md5": "655a5482636deac2b09d72b6e209d8a7"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl40.png",
+        "type": "file",
+        "md5": "ecfcc5acdb11192b9d0680c3cf1cb8b3"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl43-2-thumbnail.png",
+        "type": "file",
+        "md5": "945d8f498788af0d11160f4b6beda289"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl43-2.png",
+        "type": "file",
+        "md5": "a6414ea4d9077ce66a243bf468873e48"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl50-thumbnail.png",
+        "type": "file",
+        "md5": "5dd44ad744b1fdf9d478f5beec7c8c53"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl50.png",
+        "type": "file",
+        "md5": "f7d4314bb6663bccf0bd7737b992d5b8"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl51-thumbnail.png",
+        "type": "file",
+        "md5": "bf0505c6d8434ca905d2894d3497b202"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl51.png",
+        "type": "file",
+        "md5": "94d0eaf7289df59da7aa9b38ca73ebbb"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl52-thumbnail.png",
+        "type": "file",
+        "md5": "d2b060b98c23d9bc6f84d5ea340a8901"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl52.png",
+        "type": "file",
+        "md5": "5104ee33d5f92d6a40ddbf621a087e65"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl777-thumbnail.png",
+        "type": "file",
+        "md5": "e61a9ff1a9f9df92d3a6f19ec64f70f8"
+    },
+    {
+        "path": "/media/posts/7/gallery/owl777.png",
+        "type": "file",
+        "md5": "4e82aa87ce3607ef91016c76c6352eac"
+    },
+    {
+        "path": "/media/posts/7/gallery/owlbig4-thumbnail.png",
+        "type": "file",
+        "md5": "c4048fa2f7cbd6447fc7e6229e1d197c"
+    },
+    {
+        "path": "/media/posts/7/gallery/owlbig4.png",
+        "type": "file",
+        "md5": "4b8fc877eb3d31c0cea4ddcbfa5c6fe6"
+    },
+    {
+        "path": "/media/posts/7/gallery/owlbig5-thumbnail.png",
+        "type": "file",
+        "md5": "6cb55bec4134374cbb669256dbf1a0b5"
+    },
+    {
+        "path": "/media/posts/7/gallery/owlbig5.png",
+        "type": "file",
+        "md5": "2aa86aee5c8f151fb792ee0b8d36c7dc"
+    },
+    {
+        "path": "/media/posts/7/owl8.png",
+        "type": "file",
+        "md5": "b7c09655fb04a7314a9a30e1717d3fe9"
+    },
+    {
+        "path": "media/posts/7/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/responsive/owl8-2xl.png",
+        "type": "file",
+        "md5": "e489d63b4e8ae38b4924a676bdd742c4"
+    },
+    {
+        "path": "/media/posts/7/responsive/owl8-lg.png",
+        "type": "file",
+        "md5": "e489d63b4e8ae38b4924a676bdd742c4"
+    },
+    {
+        "path": "/media/posts/7/responsive/owl8-md.png",
+        "type": "file",
+        "md5": "e489d63b4e8ae38b4924a676bdd742c4"
+    },
+    {
+        "path": "/media/posts/7/responsive/owl8-sm.png",
+        "type": "file",
+        "md5": "e142fc6a6915deabb1908ade4198b7a0"
+    },
+    {
+        "path": "/media/posts/7/responsive/owl8-xl.png",
+        "type": "file",
+        "md5": "e489d63b4e8ae38b4924a676bdd742c4"
+    },
+    {
+        "path": "/media/posts/7/responsive/owl8-xs.png",
+        "type": "file",
+        "md5": "094e25caf016888f07d0c5b5646f237c"
     },
     {
         "path": "media/website",
@@ -345,6 +665,11 @@
         "md5": "b523ef7ae475803596d66c9b039198ae"
     },
     {
+        "path": "owls.html",
+        "type": "file",
+        "md5": "6a6717b9a80e49fcb480fb16f3c7fb86"
+    },
+    {
         "path": "robots.txt",
         "type": "file",
         "md5": "0143ebbda5ed50f73c995b8cca54521e"
@@ -352,7 +677,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "cf8f58fcde13eada80adb4c23d9fc169"
+        "md5": "1fb3fbd165204769d4a65e51741200f7"
     },
     {
         "path": "sitemap.xsl",
@@ -367,6 +692,16 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "e008c60abf21bffb9459d4f7cbfc6cd0"
+        "md5": "ef4bb0c54aed8f3836d592476b7ea6ba"
+    },
+    {
+        "path": "tags/siteop",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/siteop/index.html",
+        "type": "file",
+        "md5": "eef90aa4ad00ea2a3cb329a279fd68e1"
     }
 ]
