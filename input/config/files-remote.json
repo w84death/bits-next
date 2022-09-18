@@ -107,7 +107,7 @@
     {
         "path": "/authors/krzysztof-jankowski/index.html",
         "type": "file",
-        "md5": "0496193874871cad0e44e6745d81df96"
+        "md5": "f55d05da9dc02e55f33aa25aab127455"
     },
     {
         "path": "ending-is-just-the-beginning.html",
@@ -117,12 +117,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "e9568c6de7bdf800b0195e1047eb2b73"
+        "md5": "0c3ef91895b0e3196199acd07c90df73"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "9b2788763959307d68d9b505afb99310"
+        "md5": "f7227b39a78a91602b410d3fd41e7a91"
     },
     {
         "path": "i-for-one-welcome-our-ai-image-generators.html",
@@ -132,7 +132,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "94deb49ff64bbfac1d237bbf56cedfd9"
+        "md5": "e9f27e4d30b3c2f9b6adf76ad6957569"
     },
     {
         "path": "media",
@@ -975,6 +975,11 @@
         "md5": "d0bec9525a3a0eab56a15a18eab581af"
     },
     {
+        "path": "/media/posts/8/Screenshot-from-2022-09-18-18-32-53.png",
+        "type": "file",
+        "md5": "c9d3c73db59cab4795e4134bf790adc0"
+    },
+    {
         "path": "/media/posts/8/ownhost.png",
         "type": "file",
         "md5": "828825dd0f927a9e174642f146a9fa09"
@@ -1028,6 +1033,21 @@
         "path": "/media/posts/8/responsive/Screenshot-from-2022-09-18-14-04-52-xs.png",
         "type": "file",
         "md5": "399dfc249c7f23ff42297c1f902d214d"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-09-18-18-32-53-md.png",
+        "type": "file",
+        "md5": "e0305f9b0bcba5cf051e2540eca372a7"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-09-18-18-32-53-sm.png",
+        "type": "file",
+        "md5": "b3a5356792b95afc3f0715ea19202223"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-09-18-18-32-53-xs.png",
+        "type": "file",
+        "md5": "634295628b89cfe49f2522fe45021c03"
     },
     {
         "path": "/media/posts/8/responsive/ownhost-2xl.png",
@@ -1152,7 +1172,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "85d1ed5e9186c0af5fa58bef38ba6884"
+        "md5": "488d3354d7c1bac740632cc2492f547c"
     },
     {
         "path": "sitemap.xsl",
@@ -1162,7 +1182,7 @@
     {
         "path": "so-you-want-to-run-your-own-stable-diffusion-right.html",
         "type": "file",
-        "md5": "a8f6d7148377c810f27333274143de24"
+        "md5": "b42bb87dd00b50c18006926134c1996f"
     },
     {
         "path": "tags",
@@ -1202,6 +1222,6 @@
     {
         "path": "/tags/tutorial/index.html",
         "type": "file",
-        "md5": "b128a4b505d47be4c53ce0750fac9777"
+        "md5": "90a280f8d3daa4842527c48615e9fa68"
     }
 ]
