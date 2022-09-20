@@ -172,8 +172,8 @@
             "customProvider": false,
             "provider": "aws",
             "endpoint": "",
-            "id": "publii-s3-id uuid-1663421075362-777293786",
-            "key": "publii-s3-key uuid-1663421075362-777293786",
+            "id": "",
+            "key": "",
             "bucket": "",
             "region": "",
             "prefix": "",
@@ -185,7 +185,7 @@
             "user": "",
             "repo": "",
             "branch": "",
-            "token": "publii-gh-token uuid-1663421075362-777293786",
+            "token": "",
             "parallelOperations": 1,
             "apiRateLimiting": 1
         },
@@ -193,11 +193,11 @@
             "server": "https://gitlab.com/",
             "repo": "",
             "branch": "",
-            "token": "publii-gl-token uuid-1663421075362-777293786"
+            "token": ""
         },
         "netlify": {
-            "id": "publii-netlify-id uuid-1663421075362-777293786",
-            "token": "publii-netlify-token uuid-1663421075362-777293786"
+            "id": "",
+            "token": ""
         },
         "google": {
             "key": "",
@@ -210,5 +210,5 @@
         }
     },
     "theme": "square",
-    "syncDate": 1663527898178
+    "syncDate": 1663676048154
 }
