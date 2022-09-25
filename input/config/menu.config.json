@@ -23,7 +23,19 @@
                         "rel": "",
                         "link": 1,
                         "cssClass": "",
-                        "isHidden": true,
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1664135136980,
+                        "label": "Tutorials",
+                        "title": "",
+                        "type": "tag",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 4,
+                        "cssClass": "",
+                        "isHidden": false,
                         "items": []
                     },
                     {
@@ -36,6 +48,18 @@
                         "link": 2,
                         "cssClass": "",
                         "isHidden": true,
+                        "items": []
+                    },
+                    {
+                        "id": 1664135170351,
+                        "label": "Site Operations",
+                        "title": "",
+                        "type": "tag",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 3,
+                        "cssClass": "",
+                        "isHidden": false,
                         "items": []
                     }
                 ]
