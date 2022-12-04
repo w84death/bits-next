@@ -1,6 +1,6 @@
 {
     "config": {
-        "postsPerPage": 4,
+        "postsPerPage": "24",
         "tagsPostsPerPage": 4,
         "authorsPostsPerPage": 5,
         "excerptLength": 45,
@@ -13,7 +13,7 @@
         "frontSource": "default",
         "frontPost": "",
         "frontGallery": false,
-        "listingDate": true,
+        "listingDate": false,
         "listingAuthor": false,
         "heroHeight": "40vh",
         "heroBg": "#000000",
@@ -28,9 +28,9 @@
         "textHero": "<h1>Welcome, knowledge explorer</h1>\n<p>You're in a right place. I'am writing about shaders, procedural generation, and AI art.</p>",
         "heroTextColor": "#FFFFFF",
         "heroBorderColor": "rgba(255, 255, 255, 0.2)",
-        "primaryColor": "#8B8B8B",
+        "primaryColor": "#BABABA",
         "headingsColor": "#000000",
-        "textColor": "#262626",
+        "textColor": "#141414",
         "navBg": "#03423D",
         "navLinkColor": "#4E767B",
         "navLinkColorHover": "#FFFFFF",
@@ -78,7 +78,7 @@
         "galleryArrowKeys": true,
         "formatDate": "D MMMM YYYY",
         "formatDateCustom": "HH:mm:ss YY/MM/DD",
-        "lazyLoadEffect": "fadein",
+        "lazyLoadEffect": "none",
         "faviconUpload": "media/website/favowl-2.png",
         "faviconExtension": "image/png"
     },

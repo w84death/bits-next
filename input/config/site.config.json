@@ -1,6 +1,6 @@
 {
     "uuid": "uuid-1663421075362-777293786",
-    "name": "bits-from-p1x",
+    "name": "bits-next",
     "displayName": "bits from P1X",
     "synced": "synced",
     "logo": {
@@ -15,6 +15,9 @@
         "htmlCompression": 1,
         "htmlCompressionRemoveComments": 1,
         "imagesQuality": 60,
+        "alphaQuality": 100,
+        "forceWebp": false,
+        "webpLossless": false,
         "responsiveImages": 1,
         "mediaLazyLoad": 1,
         "versionSuffix": 1,
