@@ -1,6 +1,6 @@
 {
     "uuid": "uuid-1663421075362-777293786",
-    "name": "bits-next",
+    "name": "bits-from-p1x",
     "displayName": "bits from P1X",
     "synced": "synced",
     "logo": {
@@ -212,6 +212,6 @@
             "outputDirectory": ""
         }
     },
-    "theme": "square",
+    "theme": "square-next",
     "syncDate": 1663676048154
 }
