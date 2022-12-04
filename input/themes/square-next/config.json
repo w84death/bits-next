@@ -1,6 +1,6 @@
 {
     "name": "Square-NEXT",
-    "version": "1.0.3.0",
+    "version": "1.0.4.0",
     "author": "TidyCustoms <https://tidycustoms.net/> modified by KKJ",
     "menus": {
         "mainMenu": "Main menu"
@@ -29,7 +29,7 @@
         "authorImages": true,
         "searchPage": false,
         "customSearch": false,
-        "customComments": true,
+        "customComments": false,
         "errorPage": true,
         "embedConsents": true
     },
@@ -37,7 +37,7 @@
         {
             "name": "postsPerPage",
             "label": "Posts per page",
-            "value": 4,
+            "value": -1,
             "type": "number"
         },
         {

@@ -76,7 +76,7 @@
             {{/if}}
             <div class="post__entry">
                   {{{text}}}
-
+                  
                   {{#checkIfAny postViewConfig.displayTags postViewConfig.displayShareButtons  postViewConfig.displayAuthorBio}}
                   <footer>
 
@@ -108,11 +108,11 @@
                         {{#author}}
                            <div class="post__bio">
                               {{#if avatar}}
-                                 <img
-                                    src="{{avatarImage.url}}"
+                                 <img 
+                                    src="{{avatarImage.url}}" 
                                     {{ lazyload "lazy" }}
                                     height="{{avatarImage.height}}"
-                                    width="{{avatarImage.width}}"
+                                    width="{{avatarImage.width}}" 
                                     alt="{{avatarImage.alt}}">
                               {{/if}}
                               {{#if name}}
