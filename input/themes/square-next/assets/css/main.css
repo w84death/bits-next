@@ -296,27 +296,23 @@ dl dt {
 }
 
 code {
-  background-color: rgba(var(--color-rgb), 0.1);
   border-radius: 2px;
-  color: var(--color);
+  color: #f8f8f8;
   font-size: 0.7901234568rem;
   font-family: "Monaco", "Courier New", monospace;
   padding: 0.25rem 0.5rem;
 }
 
 pre {
-  background-color: var(--lighter);
+  background-color: #222;
   border-radius: 3px;
-  font-size: 0.7901234568rem;
+  font-size: 0.65rem;
   padding: 1.5rem;
   white-space: pre-wrap !important;
   word-wrap: break-word;
   width: 100%;
 }
 pre code {
-  background-color: var(--lighter);
-  color: inherit !important;
-  font-size: inherit;
   padding: 0;
 }
 

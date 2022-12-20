@@ -49,7 +49,6 @@
                <h1>{{title}}</h1>
                {{#checkIfAny postViewConfig.displayDate postViewConfig.displayAuthor}}
                   <p>
-                     {{#if postViewConfig.displayDate}}
                         <time datetime="{{date createdAt 'YYYY-MM-DDTHH:mm'}}">
                            {{#checkIf @config.custom.formatDate '!=' 'custom'}}
                               {{date createdAt @config.custom.formatDate}}
@@ -57,13 +56,10 @@
                               {{date createdAt @config.custom.formatDateCustom}}
                            {{/checkIf}}
                         </time>
-                     {{/if}}
-                     {{#if postViewConfig.displayAuthor}}
-                        {{ translate 'common.publishedBy' }}
+
                         {{#author}}
                            <a href="{{url}}" rel="author" title="{{name}}">{{name}}</a>
                         {{/author}}
-                     {{/if}}
                   </p>
                {{/checkIfAny}}
             </header>
@@ -76,7 +72,7 @@
             {{/if}}
             <div class="post__entry">
                   {{{text}}}
-                  
+
                   {{#checkIfAny postViewConfig.displayTags postViewConfig.displayShareButtons  postViewConfig.displayAuthorBio}}
                   <footer>
 
@@ -108,11 +104,11 @@
                         {{#author}}
                            <div class="post__bio">
                               {{#if avatar}}
-                                 <img 
-                                    src="{{avatarImage.url}}" 
+                                 <img
+                                    src="{{avatarImage.url}}"
                                     {{ lazyload "lazy" }}
                                     height="{{avatarImage.height}}"
-                                    width="{{avatarImage.width}}" 
+                                    width="{{avatarImage.width}}"
                                     alt="{{avatarImage.alt}}">
                               {{/if}}
                               {{#if name}}
